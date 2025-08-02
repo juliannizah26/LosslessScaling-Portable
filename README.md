@@ -114,4 +114,4 @@ LosslessScaling-Portable/
 
 **Copyright (c) JulianNizah 2025.**
 
-> 💡 **Tips Pro**: Setelah mengonfigurasi Lossless Scaling dengan sempurna, jalankan `Backup-Settings.bat` untuk menyimpan pengaturan. Anda kemudian dapat menyalin seluruh folder ke PC mana pun dan memiliki konfigurasi yang sama persis!
+> 💡 **Tips Pro**: Setelah mengonfigurasi Lossless Scaling dengan sempurna, jalankan `Backup-Settings.bat` untuk menyimpan pengaturan. Agar PC Client mana pun memiliki konfigurasi yang sama persis!

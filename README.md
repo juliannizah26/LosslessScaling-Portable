@@ -105,6 +105,7 @@ LosslessScaling-Portable/
 - **No Installation**: Tidak perlu install/uninstall, langsung pakai
 
 ## 👨‍💻 Pengembang & Dukungan
+- **Aplikasi portable ini gratis jangan di perjual belikan**
 - **Jangan serta merta menghilangkan credits**
 - **Apresiasi Pengembang**: Dukung melalui [Saweria](https://saweria.co/jndev26)
 - **GitHub**: https://github.com/juliannizah26/LosslessScaling-Portable

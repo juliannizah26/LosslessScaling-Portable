@@ -1,5 +1,7 @@
 # Lossless Scaling Portable
 
+<img width="1474" height="389" alt="9d1c1ae9fd5d5aa35a0d104650e62ff9" src="https://github.com/user-attachments/assets/1941834f-d3d2-465e-882b-6ddc5481890e" />
+
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 ![Python](https://img.shields.io/badge/Python-3.7+-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)

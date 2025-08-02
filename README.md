@@ -1,6 +1,4 @@
-# Lossless Scaling Portable - Rilis
-
-**Edisi Profesional untuk Pengguna Akhir & Warnet**
+# Lossless Scaling Portable
 
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 ![Python](https://img.shields.io/badge/Python-3.7+-green)
@@ -106,17 +104,14 @@ LosslessScaling-Portable/
 - **Customer Friendly**: User tinggal double-click, langsung jalan
 - **No Installation**: Tidak perlu install/uninstall, langsung pakai
 
-## 📞 Dukungan
-- **GitHub**: https://github.com/juliannizah26/LosslessScaling-Portable
-- **Issues**: Laporkan bug melalui GitHub Issues
-
 ## 👨‍💻 Pengembang & Dukungan
 - **Jangan serta merta menghilangkan credits**
 - **Apresiasi Pengembang**: Dukung melalui [Saweria](https://saweria.co/jndev26)
-- **Repository Asli**: [JulianNizah](https://github.com/juliannizah26)
+- **GitHub**: https://github.com/juliannizah26/LosslessScaling-Portable
+- **Issues**: Laporkan bug melalui GitHub Issues
 
 ---
 
-**Copyright (c) JulianNizah 2025. Hak cipta dilindungi.**
+**Copyright (c) JulianNizah 2025.**
 
 > 💡 **Tips Pro**: Setelah mengonfigurasi Lossless Scaling dengan sempurna, jalankan `Backup-Settings.bat` untuk menyimpan pengaturan. Anda kemudian dapat menyalin seluruh folder ke PC mana pun dan memiliki konfigurasi yang sama persis!

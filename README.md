@@ -91,4 +91,4 @@ LosslessScaling-Portable/
 
 ---
 
-**Copyright (c) JulianNizah 2025. Hak cipta dilindungi.**
+**Copyright (c) JulianNizah 2025.**
